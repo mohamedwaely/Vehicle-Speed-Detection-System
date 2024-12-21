@@ -29,17 +29,17 @@ Timestamp of violations
 
 ## Components
 
-# VideoProcessor
+### VideoProcessor
 Main class coordinating the detection and processing pipeline
 Handles frame-by-frame processing
 Manages video input/output operations
 
-# ViewTransformer
+### ViewTransformer
 Performs perspective transformation
 Converts video coordinates to real-world measurements
 Ensures accurate speed calculations
 
-# SpeedTracker
+### SpeedTracker
 Tracks vehicle movements
 Calculates speeds based on position changes
 Records speed violations
