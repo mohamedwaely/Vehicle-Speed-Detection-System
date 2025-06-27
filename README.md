@@ -54,7 +54,8 @@ Calculates speeds based on position changes
 Records speed violations
 
 ## Future Work
-Work on the vehicle plate detection
+Working on the vehicle plate detection
 
-RESOURSES:
+
+## RESOURSES:
 https://github.com/roboflow/supervision/tree/develop/examples/speed_estimation
