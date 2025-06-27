@@ -1,6 +1,15 @@
 ## Overview
 This project implements a real-time vehicle speed detection system using computer vision and deep learning. The system can detect vehicles in video footage, track their movement, and calculate their speeds. It also identifies and records speed violations in a CSV file.
 
+## Demo
+![Screenshot 2025-06-27 093153](https://github.com/user-attachments/assets/f9ec392e-0cb9-4ac1-8ea3-18eb2fb71409)
+
+![Uploading Screenshot 2025-06-27 093222.png…]()
+
+![Uploading Screenshot 2025-06-27 093254.png…]()
+
+![Screenshot 2025-06-27 093017](https://github.com/user-attachments/assets/03cffefd-4332-4344-9c57-a451d8a867a5)
+
 
 ## Features
 Real-time vehicle detection and tracking
