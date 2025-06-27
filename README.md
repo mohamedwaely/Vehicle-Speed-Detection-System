@@ -4,9 +4,9 @@ This project implements a real-time vehicle speed detection system using compute
 ## Demo
 ![Screenshot 2025-06-27 093153](https://github.com/user-attachments/assets/f9ec392e-0cb9-4ac1-8ea3-18eb2fb71409)
 
-![Uploading Screenshot 2025-06-27 093222.png…]()
+![Screenshot 2025-06-27 093222](https://github.com/user-attachments/assets/11321bdc-c11b-485d-9fbd-3937cdf3cb1c)
 
-![Uploading Screenshot 2025-06-27 093254.png…]()
+![Screenshot 2025-06-27 093254](https://github.com/user-attachments/assets/cad60afc-ac75-4094-a064-26b8498da693)
 
 ![Screenshot 2025-06-27 093017](https://github.com/user-attachments/assets/03cffefd-4332-4344-9c57-a451d8a867a5)
 
@@ -53,6 +53,8 @@ Tracks vehicle movements
 Calculates speeds based on position changes
 Records speed violations
 
+## Future Work
+Work on the vehicle plate detection
 
 RESOURSES:
 https://github.com/roboflow/supervision/tree/develop/examples/speed_estimation
